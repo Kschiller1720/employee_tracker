@@ -1,0 +1,20 @@
+{
+  "name": "02-homework",
+  "version": "1.0.0",
+  "description": "Homework app",
+  "main": "app.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "ctable": "^0.0.3",
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "node": "^14.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Schiller",
+  "license": "ISC"
+}
